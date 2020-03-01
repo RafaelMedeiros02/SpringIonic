@@ -1,2 +1,2 @@
-# SpringIonic
-Curso de Spring Boot and Ionic
+# Projeto Spring, Maven, Ionic 
+# Udemy
